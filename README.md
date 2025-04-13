@@ -157,5 +157,4 @@ Para a visualização opcional, o arquivo `view.py` utiliza as bibliotecas **Net
 ```
 
 ## Referências
-- AULA 02_Introdução à teoria da complexidade.pdf
 - [Fundamentos de Projeto e Análise de Algoritmos](https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos)
